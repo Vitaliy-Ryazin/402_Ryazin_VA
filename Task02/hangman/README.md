@@ -42,10 +42,10 @@
 2. Перейти в каталог, в который вы будете клонировать проект;
 3. Выполнить команду `composer require rmvit/hangman`;
 4. Перейти в каталог vendor/bin;
-5. Запустить файл guess-number.bat.
+5. Запустить файл hangman.bat.
 
 * * *
 
 ## Ссылки
 
-Packagist: <https://packagist.org/packages/klotsai/hangman>
+Packagist: <https://packagist.org/packages/rmvit/hangman>
